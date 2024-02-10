@@ -4,6 +4,6 @@ Common Lisp bindings for Freetype 2
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/rpav/cl-freetype2.git |
-| commit  | 8bcb232                                      |
+| commit  | b7871ae                                      |
 | systems | cl-freetype2                                 |
 |---------+----------------------------------------------|
